@@ -6,7 +6,7 @@ void main() {
   // ex:.
   final meuNome = 'Eudes';
   meuNome = 'lima';
-// vejam que já apresenta o erro.
+// vejam que já apresenta o erro...
 
 // E o const? Tem a mesma carcteristica do final, entretanto, ele tem que ter
 // os dados cetados em momento de compilação!!!
