@@ -1,4 +1,4 @@
-// Temos que entender PRIMEIRO o conceitos de Variaveis. Elas formadas  quando armazenamos algum
+// Temos que entender PRIMEIRO o conceitos de Variaveis. Elas são formadas  quando armazenamos algum
 // Valores.
 // existe dois tipos:
 //  INTEIROS; Ex:. 1,2,3, 07777...
