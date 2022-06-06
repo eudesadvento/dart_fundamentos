@@ -18,7 +18,7 @@ void main() {
   // Lembrando que listas podem ser de qualquer classe.
   // Lembrando ainda que essas regras é para todas ás classes.
 
-  //! VAMOS ENTENDER COMO USAR NO NULLSAFETY NAS LISTAS
+  //! VAMOS ENTENDER COMO USAR NO NULLSAFETY NAS LISTAS.
 
   // Aceita nulo
   List<String>? nomesNulos;
